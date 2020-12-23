@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'TCButton'
-  s.version      = '1.0.0'
+  s.version      = '1.1.0'
   s.summary      = 'A UIButton that given custom assets, functions like iOS 7 style buttons.'
   s.homepage     = 'https://github.com/crizzwald/TCButton'
   s.license      = { :type => 'PERSONAL', :file => 'LICENSE' }
